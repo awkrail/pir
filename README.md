@@ -1,5 +1,5 @@
-# gir
-Simplistic image retrieval tool.
+# pir
+Simplistic image retrieval tool written in Python.
 
 # Description
 Given a single image file as `-i input_image_path`, gir retrieval the same images from images in `-o output_image_dir`.  
